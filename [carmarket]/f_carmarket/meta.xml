@@ -1,0 +1,9 @@
+<meta>
+    <script src="class/classVehicle_s.lua" type="server"/>
+	
+    <script src="main_s.lua" type="server"/>
+    <script src="db_connect.lua" type="server"/>
+    <script src="commands_s.lua" type="server"/>
+    <script src="menu_c.lua" type="client"/>
+    <script src="vec3.lua" type="shared"/>
+</meta>

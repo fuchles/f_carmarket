@@ -1,0 +1,9 @@
+<meta>
+	<script src="text_s.lua" type="server" />
+	<script src="text_c.lua" type="client" />
+	<script src="vec3.lua" type="shared" />
+	
+	<export function="create3DText" type="server" />
+	<export function="remove3DText" type="server" />
+	<export function="change3DText" type="server" />
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+	<script src="ui_window.lua" type="client" cache="false"/>
+	<script src="ui_button.lua" type="client" cache="false"/>
+	<script src="ui_textures.lua" type="client" cache="false"/>
+	<script src="featureTest.lua" type="client" cache="false"/>
+	<script src="export_c.lua" type="client" cache="false"/>
+	
+	<export function="incWindowCreate" type="client"/>
+	<export function="incButtonCreate" type="client"/>
+	<export function="incGetPos" type="client"/>
+	<export function="incGetSize" type="client"/>
+	
+	<file src="textures/button.png" type="client" />
+	<file src="textures/button_pressed.png" type="client" />
+</meta>
